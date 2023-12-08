@@ -6,6 +6,7 @@
 - 🔭 Estou trabalhando com alguns projetos front-end
 - 🌱 Estudando Font-End Fullstack
 -->
+<!--
 <div align="center">
   <a href="https://github.com/rudjmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudjmoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
